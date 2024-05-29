@@ -1,0 +1,12 @@
+GET http://localhost:3000/api/controller
+Content-Type: application/json
+
+{
+  "name": "SantiagoR",
+  "email": "SantiagoR@gmail.com",
+  "gender": 1,
+  "age": 19, 
+  "password": "123456789",
+  "id_rol" : 3
+}
+
